@@ -9,7 +9,7 @@ public class HomePage {
 	
 	public void clickOnMyAccountIcon(WebDriver driver)
 	{
-		System.out.println(driver);
+
 		WebElement myAccEle = driver.findElement(myAccLoc);
 		myAccEle.click();
 	}
