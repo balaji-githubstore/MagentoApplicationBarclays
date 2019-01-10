@@ -1,0 +1,5 @@
+com\vinsys\pages\HomePage.class
+com\vinsys\pages\LoginPage.class
+com\vinsys\utilities\PropertiesHandler.class
+com\vinsys\pages\MainPage.class
+com\vinsys\test\BaseTest.class

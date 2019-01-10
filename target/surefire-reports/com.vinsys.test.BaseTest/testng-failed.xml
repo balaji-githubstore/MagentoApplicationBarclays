@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.vinsys.test.BaseTest]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="com.vinsys.test.BaseTest">
+        <methods>
+          <include name="launchBrowser1"/>
+        </methods>
+      </class> <!-- com.vinsys.test.BaseTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.vinsys.test.BaseTest] -->

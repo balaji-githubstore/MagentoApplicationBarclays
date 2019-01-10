@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14541" started-at="2019-01-10T11:03:27Z" finished-at="2019-01-10T11:03:42Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14541" started-at="2019-01-10T11:03:27Z" finished-at="2019-01-10T11:03:42Z">
+      <class name="com.vinsys.test.BaseTest">
+        <test-method status="PASS" signature="launchBrowser1()[pri:0, instance:com.vinsys.test.BaseTest@38082d64]" name="launchBrowser1" duration-ms="14523" started-at="2019-01-10T11:03:27Z" finished-at="2019-01-10T11:03:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser1 -->
+      </class> <!-- com.vinsys.test.BaseTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
